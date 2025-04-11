@@ -25,7 +25,7 @@
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/your_username/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/your_username/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/ayan-singh-78b341299" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
 
 ⭐ From [ayan7000](https://github.com/ayan7000)
