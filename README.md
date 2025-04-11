@@ -1,56 +1,48 @@
-
-<h1 align="center">Hey there, I'm Ayan!</h1>
+<h1 align="center">Hey there, I'm Ayan! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Coder;DSA+Lover;C%2B%2B+%7C+Web+Dev+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Web+Development+Enthusiast;Learning+HTML%2C+CSS+%26+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+### 🧑‍💻 About Me
 
-- I'm a **passionate developer** from India.
-- Currently focusing on **DSA, C++**, and building cool **Web Dev projects**.
-- I love exploring new tech and contributing to open source.
-
----
-
-## 🛠️ Languages and Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+- 🌱 I'm a *beginner web developer* from India.
+- 🔭 Currently learning *HTML, **CSS, and **JavaScript*.
+- 🚀 Passionate about building cool and responsive web pages.
+- ✨ I love exploring new tech & sharing my progress on GitHub.
 
 ---
 
-## 📈 GitHub Stats
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan7000&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan7000&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan7000&layout=compact&theme=radical" />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 My Projects
+### 📊 GitHub Stats
 
-| Project | Description |
-|--------|-------------|
-| [**Project 1**](https://github.com/ayan7000/project1) | Short description about the project. |
-| [**Project 2**](https://github.com/ayan7000/project2) | Another cool project you built. |
-
----
-
-## 📫 How to reach me
-
-- **Email:** your.email@example.com (replace kar dena)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/) (add kar lena)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayan7000&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan7000&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
-*Thanks for visiting my profile! Stay connected and keep coding!*
+### 🔭 Projects Coming Soon
+
+- Portfolio Website (HTML/CSS/JS)
+- Beginner JS Mini Projects (Calculator, To-Do App, etc.)
+
+---
+
+### 📫 Connect with Me
+
+<p>
+  I'm actively learning and building. Follow my journey, and feel free to collaborate!
+</p>
