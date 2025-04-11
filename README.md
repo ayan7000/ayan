@@ -1,45 +1,31 @@
-<h1 align="center">Hey there, I'm Ayan! 👋</h1>
+<h2> Hey there! I'm Ayan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img  align="right" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🌱 &nbsp; I'm a beginner web developer from India.  
+- 🔭 &nbsp; Currently learning *HTML, **CSS, and **JavaScript*.  
+- 💻 &nbsp; Passionate about building cool and responsive web pages.  
+- 🚀 &nbsp; Love learning new tech and contributing to open-source projects.  
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C++ | HTML5 | CSS3 | JavaScript  
+- 🌐 &nbsp; Visual Studio Code | GitHub  
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayan7000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=00FFFF&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayan's GitHub Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayan7000&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ayan7000/github-readme-stats)
+
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Learning+HTML%2C+CSS+%26+JavaScript;Web+Dev+Enthusiast+from+India;Building+Cool+Things+on+the+Internet" alt="Typing SVG" />
+&nbsp; <a href="https://www.instagram.com/your_username/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/your_username/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🌱 I'm a *beginner web developer* from India.
-- 👨‍💻 Currently learning *HTML, **CSS, and **JavaScript*.
-- 🚀 Passionate about building cool and responsive web pages.
-- 💡 Love learning new tech and contributing to open-source projects.
-
----
-
-### 🛠 Languages and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan7000&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan7000&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🔗 Connect with me
-
-<p>
-  <a href="https://github.com/ayan7000" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ayan7000-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+⭐ From [ayan7000](https://github.com/ayan7000)
