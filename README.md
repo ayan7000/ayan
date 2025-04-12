@@ -2,7 +2,7 @@
 
 <img  align="right" src="" width="500"/>
 
-<h2> Hey there! I'm Ayan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey 👋 there! I'm Ayan </h2>
 <img  align="right" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
