@@ -1,6 +1,6 @@
 
 
-<img   src=""/>
+<img   src="https://github.com/ayan7000/ayan7000/blob/main/bnner3.jpg"/>
 
 <h2> Hey 👋 there! I'm Ayan </h2>
 <img  align="right" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif" width="500"/>
