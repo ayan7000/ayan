@@ -1,6 +1,6 @@
 
 
-<img  align="right" src="" width="500"/>
+
 
 <h2> Hey 👋 there! I'm Ayan </h2>
 <img  align="right" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif" width="500"/>
